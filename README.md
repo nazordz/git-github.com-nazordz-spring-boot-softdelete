@@ -1,0 +1,1 @@
+# Soft delete for spring boot
